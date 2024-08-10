@@ -39,3 +39,17 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# Rider 忽略的文件
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.ShanghaiLandscapeGallery-Backend.iml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
